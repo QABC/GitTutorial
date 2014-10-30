@@ -1,1 +1,1 @@
-delete ht10vn
+delete by ht10vn
